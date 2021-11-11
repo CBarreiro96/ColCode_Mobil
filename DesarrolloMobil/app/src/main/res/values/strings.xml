@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Turismo</string>
+    <string name="About">Acerca de:</string>
+    <string name="place">Lugar</string>
+    <string name="descripcionAbout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</string>
+    <string name="descriptionOpen">Sabados y Domigos 8 AM a 5 PM</string>
+
+    <string name="open">Abierto desde:</string>
+</resources>
