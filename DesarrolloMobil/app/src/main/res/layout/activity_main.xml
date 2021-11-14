@@ -38,17 +38,90 @@
             tools:ignore="ContentDescription" />
 
         <TextView
+            android:id="@+id/aboutTitle"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/generalInformation"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+        <TextView
             android:id="@+id/contentAbout"
             style="@style/Texto_normal"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
             android:text="@string/descripcionAbout"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/aboutTitle" />
+
+        <TextView
+            android:id="@+id/ubication"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/ubication"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/contentAbout" />
+
+        <TextView
+            android:id="@+id/contentUbication"
+            style="@style/Texto_normal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/descriptionOpen"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ubication" />
+
+        <TextView
+            android:id="@+id/temperature"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/temperature"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/contentUbication" />
+
+        <TextView
+            android:id="@+id/contentTemperature"
+            style="@style/Texto_normal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/contenttemperature"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/temperature" />
+
+        <TextView
+            android:id="@+id/subtituloDescripcion"
+            style="@style/Texto_subtitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/open"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/contentTemperature" />
 
         <TextView
             android:id="@+id/textView3"
@@ -65,26 +138,58 @@
             app:layout_constraintTop_toBottomOf="@+id/subtituloDescripcion" />
 
         <TextView
-            android:id="@+id/aboutTitle"
+            android:id="@+id/subtituloDescripcionrecomendation"
             style="@style/Texto_subtitulo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="16dp"
-            android:text="@string/About"
+            android:text="@string/Recomendation"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+            app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
         <TextView
-            android:id="@+id/subtituloDescripcion"
-            style="@style/Texto_subtitulo"
-            android:layout_width="wrap_content"
+            android:id="@+id/contentrecomendation"
+            style="@style/Texto_normal"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
-            android:layout_marginTop="16dp"
-            android:text="@string/open"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/ContentRecomendation"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/contentAbout" />
+            app:layout_constraintTop_toBottomOf="@+id/subtituloDescripcionrecomendation" />
+
+        <ImageView
+            android:id="@+id/recomendation1"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="13dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="60dp"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/recomendation"
+            app:layout_constraintTop_toBottomOf="@+id/contentrecomendation"
+            app:srcCompat="@drawable/place"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/recomendation"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="82dp"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/recomendation1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/contentrecomendation"
+            app:srcCompat="@drawable/place"
+            tools:ignore="ContentDescription" />
+
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
