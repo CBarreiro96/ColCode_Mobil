@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Turismo</string>
     <string name="ubication">Ubicacion</string>
+    <string name="textubication">xxxxxx</string>
     <string name="place">Lugar</string>
     <string name="descripcionAbout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</string>
     <string name="generalInformation">Información General</string>
