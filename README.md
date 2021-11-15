@@ -7,7 +7,7 @@ Proyecto orientado al desarrollo de una aplicación mobil para dispositivos Andr
 # Autores
 :man_technologist: Jose Luis Torres / [JoseLCTorresM](https://github.com/JoseLCTorresM "Github User")    
 :man_technologist: Paulo Díaz / [paulodiaz13](https://github.com/paulodiaz13 "Github User")   
-:man_technologist: Sergio Peñaloza / [SergioPenaloza](https://github.com/SergioPenaloza "Github User")   
+:man_technologist: Sergio Peñaloza / [SergioPenaloza](https://github.com/SergioPenaloza "Github User") ¡Presente!   
 :man_technologist: Frayerth  Artunduaga / [Frayerth](https://github.com/Frayerth "Github User")   
 :man_technologist: Camilo Barreiro / [CBarreiro96](https://github.com/CBarreiro96 "Github User")
 
