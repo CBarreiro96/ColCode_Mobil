@@ -34,7 +34,7 @@
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/Titulo"
-            app:srcCompat="@drawable/place"
+            app:srcCompat="@drawable/fachada_museo_pereira"
             tools:ignore="ContentDescription" />
 
         <TextView
@@ -173,7 +173,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/recomendation"
             app:layout_constraintTop_toBottomOf="@+id/contentrecomendation"
-            app:srcCompat="@drawable/place"
+            app:srcCompat="@drawable/jardin_botanico"
             tools:ignore="ContentDescription" />
 
         <ImageView
@@ -187,7 +187,7 @@
             app:layout_constraintEnd_toStartOf="@+id/recomendation1"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/contentrecomendation"
-            app:srcCompat="@drawable/place"
+            app:srcCompat="@drawable/catedral_nuestra_senora_pobreza"
             tools:ignore="ContentDescription" />
 
 
