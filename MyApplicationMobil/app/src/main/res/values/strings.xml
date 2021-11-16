@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Turismo Pereira</string>
-    <string name="ubication">Ubicacion</string>
+    <string name="ubication">Ubicación</string>
     <string name="textubication">Avenida Las Américas # 19 – 88 Pereira, Risaralda - Colombia</string>
     <string name="place">Museo de Arte de Pereira</string>
     <string name="descripcionAbout">Cuenta en su interior con cuatro salas especialmente diseñadas para
-        exposiciones de artistas locales, nacionales y extranjeros, es el principal escenario para el
+        exposiciones de artistas locales, nacionales y extranjeros. Es el principal escenario para el
         encuentro, la reflexión y el pensamiento artístico en Pereira. El Museo tiene como objeto social
         el fomento y desarrollo de la cultura en todas sus manifestaciones, especialmente en el área de
         las artes plásticas, a través del Museo de Arte, como una institución permanente sin fines
