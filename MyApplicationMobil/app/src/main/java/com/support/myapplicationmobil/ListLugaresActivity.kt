@@ -7,10 +7,11 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.gson.Gson
 
 class ListLugaresActivity : AppCompatActivity() {
 
-    private lateinit var listLugares: ArrayList<Lugar>
+    private lateinit var listLugares: ArrayList<LugarItem>
     private lateinit var lugaresAdapter: LugaresAdapter
     private lateinit var lugaresRecyclerView: RecyclerView
 
@@ -36,29 +37,11 @@ class ListLugaresActivity : AppCompatActivity() {
 
     }
 
-    private fun loadMockLugaresFromJson(): ArrayList<Lugar> {
-        var lugarString: String = applicationContext.assets.open("lugares.json").bufferedReader().use { it.readText() }
+    private fun loadMockLugaresFromJson(): ArrayList<LugarItem> {
+        val lugarString: String = applicationContext.assets.open("lugares.json").bufferedReader().use { it.readText() }
+        val gson = Gson()
+        val data = gson.fromJson(lugarString,Lugar::class.java)
+        return data
     }
 
-    private fun createMockLugares() : ArrayList<Lugar>{
-        // Lista en la que va esta en recycler view
-        return arrayListOf(
-            Lugar(
-                title = "Lugar1",
-                description = "8-10",
-                urlPicture = "https://encolombia.com/wp-content/uploads/2012/12/Pereira-Ecoparque-La-Granja-de-Noe.jpg"
-            ),
-            Lugar(
-                title = "Lugar2",
-                description = "9-10",
-                urlPicture = "https://blogapi.uber.com/wp-content/uploads/2018/05/X-planes-para-hacer-en-Pereira-en-el-fin-de-semana_Jardi%CC%81n-Bota%CC%81nico.png"
-
-            ),
-            Lugar(
-                title = "lUGAR3",
-                description = "8-10",
-                urlPicture = "https://blogapi.uber.com/wp-content/uploads/2018/05/X-planes-para-hacer-en-Pereira-en-el-fin-de-semana_Jardi%CC%81n-Bota%CC%81nico.png"
-            )
-        )
-    }
 }

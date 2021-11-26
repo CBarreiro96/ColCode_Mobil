@@ -10,7 +10,7 @@ import com.squareup.picasso.Picasso
 
 
 class LugaresAdapter(
-    private val lugaresList:ArrayList<Lugar>
+    private val lugaresList:ArrayList<LugarItem>
     ) : RecyclerView.Adapter<LugaresAdapter.lugarViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): lugarViewHolder {
@@ -33,7 +33,8 @@ class LugaresAdapter(
         private var pictureImageView: ImageView = itemView.findViewById(R.id.picture_image_view)
         //Detallara los parametros que estan en la clase lugar
 
-        fun bind(lugar: Lugar){
+        //Aqui relaciona la informacion con el cardview
+        fun bind(lugar: LugarItem){
             titleTextView.text = lugar.title
             descriptionTextView.text = lugar.description
             Picasso.get().load(lugar.urlPicture).into(pictureImageView);
