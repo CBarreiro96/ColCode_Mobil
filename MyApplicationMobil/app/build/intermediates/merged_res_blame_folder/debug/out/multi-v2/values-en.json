@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\USUARIO\\Documents\\ProyectoMisionTICCiclo4\\ColCode_Mobil\\MyApplicationMobil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\USUARIO\\Documents\\ProyectoMisionTICCiclo4\\ColCode_Mobil\\MyApplicationMobil\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "13,14,12,2,11,6,8,7,9,15,3,10,5,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "927,995,863,57,810,243,635,567,712,1040,103,757,193,144",
+                        "endColumns": "66,43,62,44,51,322,75,66,43,60,39,51,48,47",
+                        "endOffsets": "989,1034,921,97,857,561,706,629,751,1096,138,804,237,187"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,166,229,274,326,649,725,792,836,897,937,989,1038",
+                        "endColumns": "66,43,62,44,51,322,75,66,43,60,39,51,48,47",
+                        "endOffsets": "117,161,224,269,321,644,720,787,831,892,932,984,1033,1081"
+                    }
+                }
+            ]
+        }
+    ]
+}
