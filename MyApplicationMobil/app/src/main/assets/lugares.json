@@ -1,17 +1,27 @@
 [
     {
-        "title": "Lugar1",
-        "description": "8-10",
-        "urlPicture": "https://www.aviatur.com/source/contenidos/afueras-pereira-risaralda-santa-rosa-de-cabal.jpg"
+        "title": "Museo de Arte de Pereira",
+        "description": "Museo llamativo, con exposiciones de arte moderno y contemporáneo, proyecciones de películas y cafetería.",
+        "urlPicture": "https://www.eldiario.com.co/wp-content/uploads/2021/03/1-2.jpg"
     },
     {
-        "title": "Lugar2",
-        "description": "9-10",
-        "urlPicture": "https://blogapi.uber.com/wp-content/uploads/2018/05/X-planes-para-hacer-en-Pereira-en-el-fin-de-semana_Jardi%CC%81n-Bota%CC%81nico.png"
+        "title": "Jardín Botánico Universidad Tecnológica de Pereira",
+        "description": "Es un importante centro de investigación, conservación y educación ambiental.",
+        "urlPicture": "https://i.ytimg.com/vi/xW7_qxGhYpU/maxresdefault.jpg"
     },
     {
-        "title": "Lugar3",
-        "description": "9-10",
-        "urlPicture": "https://pictures.tripmasters.com/images/apkg/1014/colombia_-_salento_-_green_pasture_of_cocora-994209-500.jpg"
+        "title": "Catedral de Nuestra Señora de la Pobreza de Pereira",
+        "description": "Es la iglesia catedralicia de culto católico ubicada en la ciudad de Pereira, Colombia, capital del departamento de Risaralda. El templo está consagrado a la Virgen María bajo la advocación de la Virgen de la Pobreza.",
+        "urlPicture": "https://media-cdn.tripadvisor.com/media/photo-s/14/d6/b6/19/inside.jpg"
+    },
+    {
+        "title": "Alto Del Nudo",
+        "description": "Monte boscoso, con una red de rutas de senderismo y vistas panorámicas a la ciudad desde la cumbre.",
+        "urlPicture": "https://i.ytimg.com/vi/bUSFb7xuXS0/maxresdefault.jpg"
+    },
+    {
+        "title": "El Lago La Pradera",
+        "description": "Parque rodeado de puestos de comida rápida, con un lago, alquiler de hidropedales, equitación y una piscina exterior.",
+        "urlPicture": "https://www.dosquebradas.gov.co/web/images/Comunicado_491.jpeg"
     }
 ]
