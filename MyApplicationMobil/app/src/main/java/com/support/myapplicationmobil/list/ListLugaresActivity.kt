@@ -1,13 +1,14 @@
-package com.support.myapplicationmobil
+package com.support.myapplicationmobil.list
 
 
 import android.os.Bundle
-import android.widget.LinearLayout
 import androidx.appcompat.app.AppCompatActivity
-import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.gson.Gson
+import com.support.myapplicationmobil.R
+import com.support.myapplicationmobil.model.Lugar
+import com.support.myapplicationmobil.model.LugarItem
 
 class ListLugaresActivity : AppCompatActivity() {
 
@@ -40,7 +41,7 @@ class ListLugaresActivity : AppCompatActivity() {
     private fun loadMockLugaresFromJson(): ArrayList<LugarItem> {
         val lugarString: String = applicationContext.assets.open("lugares.json").bufferedReader().use { it.readText() }
         val gson = Gson()
-        val data = gson.fromJson(lugarString,Lugar::class.java)
+        val data = gson.fromJson(lugarString, Lugar::class.java)
         return data
     }
 

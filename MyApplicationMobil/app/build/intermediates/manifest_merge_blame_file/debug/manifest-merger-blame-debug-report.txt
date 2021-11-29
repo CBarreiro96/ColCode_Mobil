@@ -6,55 +6,55 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml
+8-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml
+9-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:4:5-66
-11-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:4:22-64
+11-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:4:5-66
+11-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <application
-13-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:6:5-34:19
+13-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:6:5-34:19
 14        android:allowBackup="true"
-14-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:7:9-35
+14-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:7:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.7.0] C:\Users\USUARIO\.gradle\caches\transforms-3\f151290c6ded99e73cc30cce4233ae32\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.7.0] /home/camilob/.gradle/caches/transforms-3/f151290c6ded99e73cc30cce4233ae32/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:icon="@mipmap/ic_launcher"
-17-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:8:9-43
+17-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:8:9-43
 18        android:label="@string/app_name"
-18-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:9:9-41
+18-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:9:9-41
 19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:10:9-54
+19-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:10:9-54
 20        android:supportsRtl="true"
-20-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:11:9-35
+20-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:11:9-35
 21        android:testOnly="true"
 22        android:theme="@style/Theme.HolaAndroid" >
-22-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:12:9-49
+22-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:12:9-49
 23        <activity
-23-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:13:9-21:20
+23-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:13:9-21:20
 24            android:name="com.support.myapplicationmobil.ListLugaresActivity"
-24-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:14:13-48
+24-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:14:13-48
 25            android:exported="true" >
-25-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:15:13-36
+25-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:15:13-36
 26            <intent-filter>
-26-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:16:13-20:29
+26-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:16:13-20:29
 27                <action android:name="android.intent.action.MAIN" />
-27-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:17:17-69
-27-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:17:25-66
+27-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:17:17-69
+27-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:17:25-66
 28
 29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:19:17-77
-29-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:19:27-74
+29-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:19:17-77
+29-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:19:27-74
 30            </intent-filter>
 31        </activity>
 32        <activity
-32-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:22:9-33:20
+32-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:22:9-33:20
 33            android:name="com.support.myapplicationmobil.MainActivity"
-33-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:23:13-41
+33-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:23:13-41
 34            android:exported="true" >
-34-->C:\Users\USUARIO\Documents\ProyectoMisionTICCiclo4\ColCode_Mobil\MyApplicationMobil\app\src\main\AndroidManifest.xml:24:13-36
+34-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:24:13-36
 35
 36            <!--
 37            <intent-filter>
@@ -66,13 +66,13 @@
 43        </activity>
 44
 45        <provider
-45-->[com.squareup.picasso:picasso:2.71828] C:\Users\USUARIO\.gradle\caches\transforms-3\7d3580f89ecc4753395e80e384ac23b9\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+45-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
 46            android:name="com.squareup.picasso.PicassoProvider"
-46-->[com.squareup.picasso:picasso:2.71828] C:\Users\USUARIO\.gradle\caches\transforms-3\7d3580f89ecc4753395e80e384ac23b9\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+46-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
 47            android:authorities="com.support.myapplicationmobil.com.squareup.picasso"
-47-->[com.squareup.picasso:picasso:2.71828] C:\Users\USUARIO\.gradle\caches\transforms-3\7d3580f89ecc4753395e80e384ac23b9\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+47-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
 48            android:exported="false" />
-48-->[com.squareup.picasso:picasso:2.71828] C:\Users\USUARIO\.gradle\caches\transforms-3\7d3580f89ecc4753395e80e384ac23b9\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+48-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
 49    </application>
 50
 51</manifest>

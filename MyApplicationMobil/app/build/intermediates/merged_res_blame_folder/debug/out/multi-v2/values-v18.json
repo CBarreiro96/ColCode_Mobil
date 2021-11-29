@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\USUARIO\\Documents\\ProyectoMisionTICCiclo4\\ColCode_Mobil\\MyApplicationMobil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-3\\80721e80a7be6efca4773cde93c5744c\\transformed\\appcompat-1.3.1\\res\\values-v18\\values-v18.xml",
+                    "source": "/home/camilob/.gradle/caches/transforms-3/80721e80a7be6efca4773cde93c5744c/transformed/appcompat-1.3.1/res/values-v18/values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

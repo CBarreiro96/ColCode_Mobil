@@ -1,4 +1,4 @@
-package com.support.myapplicationmobil
+package com.support.myapplicationmobil.model
 
 
 import com.google.gson.annotations.SerializedName
