@@ -2,6 +2,7 @@ package com.support.myapplicationmobil.list
 
 
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -26,7 +27,7 @@ class ListLugaresActivity : AppCompatActivity() {
        // listLugares = createMockLugares()
         listLugares = loadMockLugaresFromJson()
 
-        lugaresAdapter = LugaresAdapter(listLugares)
+        lugaresAdapter = LugaresAdapter(listLugares, onItemClicked = { onLugarClicked(it)} )
 
         // Desplazar el recycler view de forma vertical
 
@@ -36,6 +37,10 @@ class ListLugaresActivity : AppCompatActivity() {
             setHasFixedSize(false)
         }
 
+    }
+
+    private fun onLugarClicked(lugar: LugarItem) {
+        Log.d("alias", lugar.title)
     }
 
     private fun loadMockLugaresFromJson(): ArrayList<LugarItem> {

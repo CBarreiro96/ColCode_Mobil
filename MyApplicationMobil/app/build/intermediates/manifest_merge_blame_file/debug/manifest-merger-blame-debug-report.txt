@@ -15,7 +15,7 @@
 11-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <application
-13-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:6:5-34:19
+13-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:6:5-33:19
 14        android:allowBackup="true"
 14-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:7:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -34,8 +34,8 @@
 22-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:12:9-49
 23        <activity
 23-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:13:9-21:20
-24            android:name="com.support.myapplicationmobil.ListLugaresActivity"
-24-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:14:13-48
+24            android:name="com.support.myapplicationmobil.list.ListLugaresActivity"
+24-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:14:13-53
 25            android:exported="true" >
 25-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:15:13-36
 26            <intent-filter>
@@ -50,29 +50,27 @@
 30            </intent-filter>
 31        </activity>
 32        <activity
-32-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:22:9-33:20
-33            android:name="com.support.myapplicationmobil.MainActivity"
-33-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:23:13-41
-34            android:exported="true" >
+32-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:22:9-24:39
+33            android:name="com.support.myapplicationmobil.detalle.DetalleActivity"
+33-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:23:13-52
+34            android:exported="true" />
 34-->/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:24:13-36
 35
-36            <!--
+36        <!--
 37            <intent-filter>
 38                <action android:name="android.intent.action.MAIN" />
 39
 40                <category android:name="android.intent.category.LAUNCHER" />
 41            </intent-filter>
-42            -->
-43        </activity>
-44
-45        <provider
-45-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
-46            android:name="com.squareup.picasso.PicassoProvider"
-46-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
-47            android:authorities="com.support.myapplicationmobil.com.squareup.picasso"
-47-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
-48            android:exported="false" />
-48-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
-49    </application>
-50
-51</manifest>
+42        -->
+43        <provider
+43-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+44            android:name="com.squareup.picasso.PicassoProvider"
+44-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+45            android:authorities="com.support.myapplicationmobil.com.squareup.picasso"
+45-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+46            android:exported="false" />
+46-->[com.squareup.picasso:picasso:2.71828] /home/camilob/.gradle/caches/transforms-3/5e40db357107b5a4e6ee08f2fff0b424/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+47    </application>
+48
+49</manifest>

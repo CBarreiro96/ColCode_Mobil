@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] /home/camilob/.gradle/caches/transforms-3/1cbaff9b5ab917ef7a8600f396f70ecf/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.7.0] /home/camilob/.gradle/caches/transforms-3/b810fbd67bac4a05cbf88abe5cff703f/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] /home/camilob/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/camilob/.gradle/caches/transforms-3/2fcd23c636c50850abd51fb9ed6d82a2/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
@@ -42,20 +43,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/camilob/.gradle/cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/camilob/.gradle/caches/transforms-3/924db5bfe5c57b30b73f6f45c724441e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/camilob/.gradle/caches/transforms-3/42ffa41eed66a835645ab26fba929fd1/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/camilob/.gradle/caches/transforms-3/4ec61633d6d3cdffce59747229c850df/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:3:5-45
 		INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
 		INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
-		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
 		INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
-		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:1-35:12
 		INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:2:11-69
@@ -64,7 +65,7 @@ ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/s
 	android:name
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:6:5-34:19
+ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:6:5-33:19
 MERGED from [com.google.android.material:material:1.4.0] /home/camilob/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /home/camilob/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/camilob/.gradle/caches/transforms-3/2fcd23c636c50850abd51fb9ed6d82a2/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
@@ -89,12 +90,12 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/camil
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:12:9-49
-activity#com.support.myapplicationmobil.ListLugaresActivity
+activity#com.support.myapplicationmobil.list.ListLugaresActivity
 ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:13:9-21:20
 	android:exported
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:14:13-48
+		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:14:13-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
@@ -105,16 +106,18 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:19:27-74
-activity#com.support.myapplicationmobil.MainActivity
-ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:22:9-33:20
+activity#com.support.myapplicationmobil.detalle.DetalleActivity
+ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:22:9-24:39
 	android:exported
 		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:24:13-36
 	android:name
-		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:23:13-41
+		ADDED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml:23:13-52
 uses-sdk
 INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
 INJECTED from /home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.3] /home/camilob/.gradle/caches/transforms-3/1cbaff9b5ab917ef7a8600f396f70ecf/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] /home/camilob/.gradle/caches/transforms-3/1cbaff9b5ab917ef7a8600f396f70ecf/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.7.0] /home/camilob/.gradle/caches/transforms-3/b810fbd67bac4a05cbf88abe5cff703f/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] /home/camilob/.gradle/caches/transforms-3/b810fbd67bac4a05cbf88abe5cff703f/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] /home/camilob/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/AndroidManifest.xml:20:5-44

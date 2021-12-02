@@ -21,7 +21,7 @@
         </activity>
         <activity
             android:name=".detalle.DetalleActivity"
-            android:exported="true" >
+            android:exported="true" />
 
             <!--
             <intent-filter>
@@ -30,7 +30,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
             -->
-        </activity>
     </application>
 
 </manifest>

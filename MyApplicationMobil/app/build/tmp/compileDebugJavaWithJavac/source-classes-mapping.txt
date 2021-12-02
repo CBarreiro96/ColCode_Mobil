@@ -1,2 +1,8 @@
 com/support/myapplicationmobil/BuildConfig.java
  com.support.myapplicationmobil.BuildConfig
+com/support/myapplicationmobil/databinding/ActivityDetalleBinding.java
+ com.support.myapplicationmobil.databinding.ActivityDetalleBinding
+com/support/myapplicationmobil/databinding/CardViewLugarItemBinding.java
+ com.support.myapplicationmobil.databinding.CardViewLugarItemBinding
+com/support/myapplicationmobil/databinding/ActivityListLugaresBinding.java
+ com.support.myapplicationmobil.databinding.ActivityListLugaresBinding

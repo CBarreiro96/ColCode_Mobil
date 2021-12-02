@@ -12,7 +12,10 @@ import com.support.myapplicationmobil.model.LugarItem
 
 
 class LugaresAdapter(
-    private val lugaresList:ArrayList<LugarItem>
+    //Seleccionar el cardview
+    private val lugaresList:ArrayList<LugarItem>,
+    private val onItemClicked: (LugarItem) -> Unit
+
     ) : RecyclerView.Adapter<LugaresAdapter.lugarViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): lugarViewHolder {
@@ -22,6 +25,7 @@ class LugaresAdapter(
 
     override fun onBindViewHolder(holder: lugarViewHolder, position: Int) {
         val lugar = lugaresList[position]
+        holder.itemView.setOnClickListener { onItemClicked(lugaresList[position]) }
         holder.bind(lugar)
 
     }
