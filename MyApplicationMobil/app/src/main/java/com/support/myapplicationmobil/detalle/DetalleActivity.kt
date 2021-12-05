@@ -3,7 +3,7 @@ package com.support.myapplicationmobil.detalle
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.squareup.picasso.Picasso
-import com.support.myapplicationmobil.LugarItem
+import com.support.myapplicationmobil.model.LugarItem
 import com.support.myapplicationmobil.databinding.ActivityDetalleBinding
 
 class DetalleActivity : AppCompatActivity() {

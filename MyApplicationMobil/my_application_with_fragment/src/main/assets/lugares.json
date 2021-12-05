@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Museo de Arte de Pereira",
+        "description": "Museo llamativo, con exposiciones de arte moderno y contemporáneo, proyecciones de películas y cafetería.",
+        "urlPicture": "https://www.eldiario.com.co/wp-content/uploads/2021/03/1-2.jpg",
+        "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
+        "Temperatura": "26°C",
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n    -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+    },
+    {
+        "title": "Jardín Botánico Universidad Tecnológica de Pereira",
+        "description": "Es un importante centro de investigación, conservación y educación ambiental.",
+        "urlPicture": "https://i.ytimg.com/vi/xW7_qxGhYpU/maxresdefault.jpg",
+        "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
+        "Temperatura": "26°C",
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n   -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+    },
+    {
+        "title": "Catedral de Nuestra Señora de la Pobreza de Pereira",
+        "description": "Es la iglesia catedralicia de culto católico ubicada en la ciudad de Pereira, Colombia, capital del departamento de Risaralda. El templo está consagrado a la Virgen María bajo la advocación de la Virgen de la Pobreza.",
+        "urlPicture": "https://media-cdn.tripadvisor.com/media/photo-s/14/d6/b6/19/inside.jpg",
+        "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
+        "Temperatura": "26°C",
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n  -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+    },
+    {
+        "title": "Alto Del Nudo",
+        "description": "Monte boscoso, con una red de rutas de senderismo y vistas panorámicas a la ciudad desde la cumbre.",
+        "urlPicture": "https://i.ytimg.com/vi/bUSFb7xuXS0/maxresdefault.jpg",
+        "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
+        "Temperatura": "26°C",
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n  -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+    },
+    {
+        "title": "El Lago La Pradera",
+        "description": "Parque rodeado de puestos de comida rápida, con un lago, alquiler de hidropedales, equitación y una piscina exterior.",
+        "urlPicture": "https://www.dosquebradas.gov.co/web/images/Comunicado_491.jpeg",
+        "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
+        "Temperatura": "26°C",
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n   -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+    }
+]
