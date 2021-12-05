@@ -1843,6 +1843,7 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id Horario
 id Lugares_RecyclerView
 id META
 id NO_DEBUG
@@ -2277,7 +2278,6 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
-id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon

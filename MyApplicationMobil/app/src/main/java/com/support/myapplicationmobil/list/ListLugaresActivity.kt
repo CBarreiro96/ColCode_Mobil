@@ -1,15 +1,17 @@
 package com.support.myapplicationmobil.list
 
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.gson.Gson
+import com.support.myapplicationmobil.Lugar
+import com.support.myapplicationmobil.LugarItem
 import com.support.myapplicationmobil.R
-import com.support.myapplicationmobil.model.Lugar
-import com.support.myapplicationmobil.model.LugarItem
+import com.support.myapplicationmobil.detalle.DetalleActivity
 
 class ListLugaresActivity : AppCompatActivity() {
 
@@ -41,6 +43,9 @@ class ListLugaresActivity : AppCompatActivity() {
 
     private fun onLugarClicked(lugar: LugarItem) {
         Log.d("alias", lugar.title)
+        val intent = Intent(this, DetalleActivity::class.java)
+        intent.putExtra("lugar",lugar)
+        startActivity(intent)
     }
 
     private fun loadMockLugaresFromJson(): ArrayList<LugarItem> {

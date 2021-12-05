@@ -7,8 +7,8 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
+import com.support.myapplicationmobil.LugarItem
 import com.support.myapplicationmobil.R
-import com.support.myapplicationmobil.model.LugarItem
 
 
 class LugaresAdapter(
