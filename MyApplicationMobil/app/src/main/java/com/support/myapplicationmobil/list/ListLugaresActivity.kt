@@ -8,8 +8,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.gson.Gson
-import com.support.myapplicationmobil.Lugar
-import com.support.myapplicationmobil.LugarItem
+import com.support.myapplicationmobil.model.Lugar
+import com.support.myapplicationmobil.model.LugarItem
 import com.support.myapplicationmobil.R
 import com.support.myapplicationmobil.detalle.DetalleActivity
 

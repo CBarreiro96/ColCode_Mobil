@@ -1,0 +1,26 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Turismo Pereira</string>
+    <string name="ubication">Ubicacion</string>
+    <string name="textubication">Avenida Las Américas # 19 – 88 Pereira, Risaralda - Colombia</string>
+    <string name="place">Museo de Arte de Pereira</string>
+    <string name="descripcionAbout">Cuenta en su interior con cuatro salas especialmente diseñadas para
+        exposiciones de artistas locales, nacionales y extranjeros, es el principal escenario para el
+        encuentro, la reflexión y el pensamiento artístico en Pereira. El Museo tiene como objeto social
+        el fomento y desarrollo de la cultura en todas sus manifestaciones, especialmente en el área de
+        las artes plásticas, a través del Museo de Arte, como una institución permanente sin fines
+        lucrativos, al servicio de la sociedad y de su progreso, abierta al público.</string>
+    <string name="generalInformation">Información General</string>
+    <string name="descriptionOpen">
+        -Martes a Viernes: 10:00 a.m. a 7:00 p.m.
+        <br></br>
+        -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m.</string>
+    <string name="temperature">Temperatura</string>
+    <string name="contenttemperature">26°C</string>
+    <string name="Recomendation">Sitios recomendados</string>
+    <string name="ContentRecomendation">Te recomendamos estos sitios turísticos:</string>
+    <string name="open">Horarios:</string>
+    <string name="List">Lugares</string>
+    <string name="park1">Ecoparque la granja de noe</string>
+</resources>
