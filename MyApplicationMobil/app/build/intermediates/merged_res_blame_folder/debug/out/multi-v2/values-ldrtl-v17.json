@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "C:\\Users\\camilo.barreiro\\Documents\\MINTIC\\ColCode_Mobil\\MyApplicationMobil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/home/camilob/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\camilo.barreiro\\.gradle\\caches\\transforms-3\\0a2abf7e181c5770d82904112c96f8dd\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -44,7 +44,7 @@ class LugaresAdapter(
         fun bind(lugar: LugarItem){
             titleTextView.text = lugar.title
             descriptionTextView.text = lugar.description
-            Picasso.get().load(lugar.urlPicture).into(pictureImageView);
+            Picasso.get().load(lugar.urlPicture).into(pictureImageView)
         }
     }
 }

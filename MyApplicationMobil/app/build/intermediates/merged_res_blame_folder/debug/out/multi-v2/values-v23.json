@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/camilob/Documents/MINTIC/ColCode_Mobil/MyApplicationMobil/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "C:\\Users\\camilo.barreiro\\Documents\\MINTIC\\ColCode_Mobil\\MyApplicationMobil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "/home/camilob/.gradle/caches/transforms-3/80721e80a7be6efca4773cde93c5744c/transformed/appcompat-1.3.1/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\camilo.barreiro\\.gradle\\caches\\transforms-3\\80721e80a7be6efca4773cde93c5744c\\transformed\\appcompat-1.3.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/home/camilob/.gradle/caches/transforms-3/1c390a32efec58e61f90f60d655d7977/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\camilo.barreiro\\.gradle\\caches\\transforms-3\\1c390a32efec58e61f90f60d655d7977\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "/home/camilob/.gradle/caches/transforms-3/0a2abf7e181c5770d82904112c96f8dd/transformed/material-1.4.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\camilo.barreiro\\.gradle\\caches\\transforms-3\\0a2abf7e181c5770d82904112c96f8dd\\transformed\\material-1.4.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

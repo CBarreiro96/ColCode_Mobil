@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.my_application_with_fragment.databinding.FragmentListBinding
 import com.example.my_application_with_fragment.model.Lugar
@@ -40,7 +41,7 @@ class ListFragment : Fragment() {
     }
 
     private fun onLugarClicked(lugar: LugarItem) {
-        //TODO programar detalles
+        findNavController().navigate(ListFragmentDirections.actionListFragmentToDetailFragment(lugar = lugar))
     }
 
     private fun loadMockLugaresFromJson(): ArrayList<LugarItem> {
