@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.my_application_with_fragment.databinding.FragmentListBinding
 import com.example.my_application_with_fragment.model.Lugar
 import com.example.my_application_with_fragment.model.LugarItem
@@ -30,6 +31,12 @@ class ListFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         listLugares = loadMockLugaresFromJson()
         lugaresAdapter = LugaresAdapter(listLugares, onItemClicked = { onLugarClicked(it)} )
+
+        listBinding.LugaresRecyclerView.apply {
+            layoutManager = LinearLayoutManager(context)
+            adapter = lugaresAdapter
+            setHasFixedSize(false)
+        }
     }
 
     private fun onLugarClicked(lugar: LugarItem) {
