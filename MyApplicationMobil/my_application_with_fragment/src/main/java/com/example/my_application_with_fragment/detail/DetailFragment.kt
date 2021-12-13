@@ -5,8 +5,10 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import com.example.my_application_with_fragment.databinding.FragmentDetailBinding
+import com.example.my_application_with_fragment.model.Lugar
 import com.squareup.picasso.Picasso
 
 
@@ -36,6 +38,12 @@ class DetailFragment : Fragment() {
             contentTemperature.text = lugar.temperatura
             Horario.text = lugar.horarios
             com.squareup.picasso.Picasso.get().load(lugar.urlPicture).into(imageView)
+
+
+            mapButton.setOnClickListener(){
+                findNavController().navigate(DetailFragmentDirections.actionDetailFragmentToMapsFragment())
+            }
+
         }
     }
 }

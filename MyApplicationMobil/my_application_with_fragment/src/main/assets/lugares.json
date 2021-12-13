@@ -5,7 +5,9 @@
         "urlPicture": "https://www.eldiario.com.co/wp-content/uploads/2021/03/1-2.jpg",
         "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
         "Temperatura": "26°C",
-        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n    -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n    -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m.",
+        "Latitud": 4.8044896,
+        "Longitud": -75.6958884
     },
     {
         "title": "Jardín Botánico Universidad Tecnológica de Pereira",
@@ -13,7 +15,9 @@
         "urlPicture": "https://i.ytimg.com/vi/xW7_qxGhYpU/maxresdefault.jpg",
         "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
         "Temperatura": "26°C",
-        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n   -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n   -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m.",
+        "Latitud": 4.8044896,
+        "Longitud": -75.6958884
     },
     {
         "title": "Catedral de Nuestra Señora de la Pobreza de Pereira",
@@ -21,7 +25,9 @@
         "urlPicture": "https://media-cdn.tripadvisor.com/media/photo-s/14/d6/b6/19/inside.jpg",
         "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
         "Temperatura": "26°C",
-        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n  -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n  -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m.",
+        "Latitud": 4.8044896,
+        "Longitud": -75.6958884
     },
     {
         "title": "Alto Del Nudo",
@@ -29,7 +35,9 @@
         "urlPicture": "https://i.ytimg.com/vi/bUSFb7xuXS0/maxresdefault.jpg",
         "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
         "Temperatura": "26°C",
-        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n  -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n  -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m.",
+        "Latitud": 4.8044896,
+        "Longitud": -75.6958884
     },
     {
         "title": "El Lago La Pradera",
@@ -37,6 +45,8 @@
         "urlPicture": "https://www.dosquebradas.gov.co/web/images/Comunicado_491.jpeg",
         "lugar": "Avenida las Americas #19 - 88 Pereira, Risaralda - Colombia",
         "Temperatura": "26°C",
-        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n   -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m."
+        "Horarios": "-Martes a Viernes: 10:00 a.m. a 7:00 p.m.\n   -Sábados, domingos y festivos: 10:00 a.m. a 5:00 p.m.",
+        "Latitud": 4.8044896,
+        "Longitud": -75.6958884
     }
 ]

@@ -22,5 +22,13 @@
         <argument
             android:name="lugar"
             app:argType="com.example.my_application_with_fragment.model.LugarItem" />
+        <action
+            android:id="@+id/action_detailFragment_to_mapsFragment"
+            app:destination="@id/mapsFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.example.my_application_with_fragment.maps.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
 </navigation>
