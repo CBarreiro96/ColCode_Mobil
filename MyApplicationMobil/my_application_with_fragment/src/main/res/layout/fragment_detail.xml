@@ -182,7 +182,7 @@
             android:layout_width="100dp"
             android:layout_height="150dp"
             android:layout_marginStart="60dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginTop="8dp"
             android:layout_marginEnd="82dp"
             android:scaleType="fitXY"
             app:layout_constraintEnd_toStartOf="@+id/recomendation1"
@@ -190,6 +190,18 @@
             app:layout_constraintTop_toBottomOf="@+id/contentrecomendation"
             app:srcCompat="@drawable/catedral_nuestra_senora_pobreza"
             tools:ignore="ContentDescription" />
+
+        <ImageButton
+            android:id="@+id/mapButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recomendation1"
+            app:srcCompat="@drawable/ic_baseline_map"
+            tools:ignore="SpeakableTextPresentCheck"
+            android:contentDescription="Null" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
